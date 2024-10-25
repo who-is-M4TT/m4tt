@@ -172,7 +172,11 @@ h1, h2, h3, h4, h5, h6, figure {
   background: $brand-primary;
 }
 
-
+.pic {
+	border-radius: 10%;
+	width: 312.5px;
+	height: 250px;
+}
 #fh5co-header,
 .fh5co-cover {
 	background-color: transparent;
